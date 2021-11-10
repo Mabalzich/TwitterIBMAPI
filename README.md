@@ -1,4 +1,4 @@
-# TwitterIBMAPI
+# TwitterIBMWolframAPI
 Learned how to use the Twitter, IBM Watson, and Wolfram Alpha APIs and practiced socket networking.
 
 Note: I did not post my API keys for privacy reasons.
