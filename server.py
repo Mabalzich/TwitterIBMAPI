@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb 20 13:48:10 2021
-
-@author: sshum
 """
 import wolframalpha
 
