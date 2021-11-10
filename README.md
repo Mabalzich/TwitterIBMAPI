@@ -3,7 +3,9 @@ Learned how to use the Twitter, IBM Watson, and Wolfram Alpha APIs and practiced
 
 Note: I did not post my API keys for privacy reasons.
 
+
 Client Functionality:
+
 
 -Establish a TCP connection with the server.
 
@@ -25,7 +27,9 @@ Client Functionality:
 
 -Back to listening for Tweets.
 
+
 Server Functionality:
+
 
 -Establish client TCP connection (up to 5 clients).
 
