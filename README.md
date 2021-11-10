@@ -6,6 +6,7 @@ Note: I did not post my API keys for privacy reasons.
 Client Functionality:
 
 -Establish a TCP connection with the server.
+
 -Use Twitter API to read questions in the form of tweets with a specific hashtag.
 -Encrypt the question via python hashlib library and add a checksum for message integrity.
 -Serialize the resulting encryption to be sent over the socket connection to the server.
