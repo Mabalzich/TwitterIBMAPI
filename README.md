@@ -28,3 +28,4 @@ Server Functionality:
 -Encrypt the Wolfram Answer via python hashlib library and add a checksum for message integrity.
 -Serialize and send back to the client.
 -Return to listening for messages.
+
